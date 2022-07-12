@@ -4,8 +4,11 @@ AWS Translate supports a subset and extended variants of the two
 character ISO 639-1 e.g., "es" and "es-MX" for "Spanish" and "Spanish
 (Mexico)".
 
-The list has all the AWS Translate language codes which are then
-named in 11 different languages. These internationalizations are:
+The list has all the AWS Translate language codes. There are currently
+75 languages which AWS Translate works with. These available language
+codes are then named in 11 common languages for internationalization
+use within applications. Those 11 languages are themselves noted using
+language codes. They are:
 
 - Deutsch (de) "German"
 - English (en) "English"
